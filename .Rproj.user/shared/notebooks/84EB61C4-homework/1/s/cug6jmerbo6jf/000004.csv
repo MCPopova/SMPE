@@ -1,0 +1,5 @@
+"0","ggplot(data=newDF, aes(x=Year, y= Wheat)) +"
+"0","  geom_bar(stat = ""identity"", fill=""steelblue"")+"
+"0","  geom_line(aes(y=Wages), colour=""red"")+"
+"0","  theme_minimal() +"
+"0","  labs(y = ""shillings"",x = ""Year"")"

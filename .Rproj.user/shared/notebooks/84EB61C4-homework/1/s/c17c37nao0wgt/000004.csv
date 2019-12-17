@@ -1,0 +1,2 @@
+"0","df <- read.csv(""https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/HistData/Wheat.csv"", header=T, strip.white=TRUE);"
+"0",""

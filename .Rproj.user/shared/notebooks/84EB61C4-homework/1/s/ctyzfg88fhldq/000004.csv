@@ -1,0 +1,4 @@
+"0","ggplot(data = dfWithAdditionalData, aes(x = Year, y = kgpww)) + "
+"0","     geom_line(color = ""#FC766A"", size = 1) +"
+"0","     stat_smooth(color = ""#5B84B1"",method = ""loess"" ) +"
+"0","     theme_minimal()"
