@@ -2,7 +2,7 @@
 title: "SMPE_Project"
 output: html_notebook
 ---
-Imports for libraries that are used for the project. In this project ggplot2 has been used for data visualization. While gganimate is used for two animated visualizations in Task 3.
+Imports for libraries that are used for the project. In this project ggplot2 has been used for data visualization. While gganimate is used for two animated visualizations in Task 3. For the animated visualizations to successfully run, the **png** package also needs to be installed.
 ```{r}
 library("ggplot2")
 library("gganimate")

@@ -1,0 +1,2 @@
+"0","dfWithAdditionalData$kgpww<-round(dfWithAdditionalData$Wages/dfWithAdditionalData$pricepkg,digits = 3)"
+"0","print(dfWithAdditionalData)"

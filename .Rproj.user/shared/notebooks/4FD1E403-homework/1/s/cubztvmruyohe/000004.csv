@@ -1,0 +1,2 @@
+"0","missingData <- df[rowSums(is.na(df)) > 0,];"
+"0","print(missingData);"

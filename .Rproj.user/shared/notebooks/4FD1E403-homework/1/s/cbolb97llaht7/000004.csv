@@ -1,0 +1,4 @@
+"0","dfWithAdditionalData<- data.frame(newDF)"
+"0","dfWithAdditionalData$pricepkg<-round(newDF$Wheat/6.8,digits = 2)"
+"0",""
+"0","print(dfWithAdditionalData)"

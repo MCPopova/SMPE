@@ -1,0 +1,7 @@
+"0","ggplot(data=newDF, aes(x=Year, y= Wheat)) +"
+"0","  geom_bar(stat = ""identity"", fill=""steelblue"")+"
+"0","  geom_line(aes(y=Wages), colour=""red"")+"
+"0","  theme_minimal() +"
+"0","  scale_y_continuous(sec.axis = sec_axis(~.,name = ""Weekly wage""))+"
+"0","  labs(y = ""Wheat Price for 15 pounds"","
+"0","                x = ""Year"")"

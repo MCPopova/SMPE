@@ -1,0 +1,2 @@
+"0","newDF = na.omit(df);"
+"0","print(newDF);"
